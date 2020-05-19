@@ -1,0 +1,191 @@
+
+
+
+header {
+    background: url(./img/BG.jpg) no-repeat center top / cover;
+
+}
+.fill-viewport {
+    min-height: 100vh 
+  }
+.text-white {
+    width: 500px;
+}
+.text-white-70 {
+    color: rgba(255,255,255,0.7)
+  }
+.lead {
+    width: 700px;
+}
+.button {
+    background:#ffffff;
+    color: black;
+    border-radius: 25px;
+    display: block;
+    width: 195px;
+    padding: 10px 0;
+    margin:0 auto;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    font-size: 12px;
+    margin-top: 50px;
+    margin-left: 0;
+}
+
+.prop {
+    float: right;
+    margin-top: 43px;
+}
+
+.menu {
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+
+.menu li {
+    float: left;
+    display: block;
+    margin-right: 53px;
+
+}
+
+.menu_razd {
+    color: #ffffff;
+}
+
+.menu_button {
+    background:#ffffff;
+    color: black;
+    border-radius: 25px;
+    display: block;
+    width: 150px;
+    
+    padding: 7px 0;
+    margin:0 auto;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    font-size: 12px;
+    margin-left: 0;
+}
+
+.logo {
+    margin-top: 30px;
+    float: left;
+}
+.giant {
+    margin-top: 40px;
+    float: left;
+}
+
+.menu li a {
+    text-decoration: none;
+}
+
+.services {
+    width: 1140px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.services__item {
+    width: 300px;
+    float: left;
+    text-align: left;
+    padding-left: 50px;
+
+}
+
+.services__item h3 {
+    font-size: 17px;
+}
+
+.services__item p {
+    font-size: 11px;
+    width: 210px;
+}
+
+
+
+
+
+#services {
+    padding-bottom: 160px;
+}
+
+.point {
+    margin-top: 110px;
+}
+
+.fill-80-viewport {
+    min-height: 80vh
+  }
+
+.text-white-40 {
+    color: rgba(255,255,255,0.4)
+  }
+.text-white-70 {
+    color: rgba(255,255,255,0.7)
+  }
+
+.price {
+    margin-left: 90PX;
+}
+
+.price_button {
+    background:#ffffff;
+    color: black;
+    border-radius: 25px;
+    display: block;
+    width: 100px;
+    padding: 10px 0;
+    margin:0 auto;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    font-size: 12px;
+    margin-top: 50px;
+    margin-left: 0;
+}
+
+.blog{
+    background: url(./img/BG.jpg) no-repeat center top / cover;
+    margin: 4em 0;
+    position: relative; 
+
+   }
+   .blog h3{
+    color: white;
+    margin: 2em; 
+   }
+   .blog .card{
+    box-shadow: 0 0 20px #ccc;
+   }
+   .blog .card img{
+    width: 100%;
+    height: 12em;
+   }
+   .blog .card-title{
+    color:#F97300;
+     
+   }
+   .blog .card-body{
+    padding: 1em;
+   }
+
+.foot   {
+    background: black;
+    color: #fff;
+    font-size: 70%;
+    padding: 5px; clear : both;
+    text-align: center;
+    }
+
+    .clearfix:after {
+        content: '';
+        display: table;
+        width: 100%;
+        clear: both;
+    }
