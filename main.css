@@ -189,3 +189,8 @@ header {
         width: 100%;
         clear: both;
     }
+
+    .leftcol {
+        width: 110px; /* Ширина левой колонки с рисунком */
+        vertical-align: top; /* Выравнивание по верхнему краю */
+       }
